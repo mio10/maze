@@ -12,5 +12,6 @@ My first maze game
 ### Windows
 *(may work on Linux too but wasn't tested)*
 ```console
-$ processing-java --sketch=<path_to_maze_directory> --run
+$ processing-java --sketch=path/to/maze --run
 ```
+**Note:** `path/to/maze` is a path to the directory containing `maze.pde`
